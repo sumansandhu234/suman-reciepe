@@ -1,0 +1,19 @@
+
+body  {
+    font-family: Arial,  sans-serif;
+    max-width: 800px;
+    margin: auto;
+    background-color: azure;
+    padding: 20px;
+}
+
+h1   {color: aliceblue;
+}
+
+table  {background-color: azure;
+}
+img     {
+    display: block;
+    margin: 2opx auto;
+    border-radius: 10px;
+}
